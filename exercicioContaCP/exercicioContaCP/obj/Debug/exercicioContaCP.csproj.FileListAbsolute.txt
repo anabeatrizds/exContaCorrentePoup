@@ -1,0 +1,14 @@
+C:\Users\AnaDosSantos\source\repos\exercicioContaCP\exercicioContaCP\obj\Debug\exercicioContaCP.csproj.AssemblyReference.cache
+C:\Users\AnaDosSantos\source\repos\exercicioContaCP\exercicioContaCP\obj\Debug\exercicioContaCP.Form1.resources
+C:\Users\AnaDosSantos\source\repos\exercicioContaCP\exercicioContaCP\obj\Debug\exercicioContaCP.Formcriarconta.resources
+C:\Users\AnaDosSantos\source\repos\exercicioContaCP\exercicioContaCP\obj\Debug\exercicioContaCP.Properties.Resources.resources
+C:\Users\AnaDosSantos\source\repos\exercicioContaCP\exercicioContaCP\obj\Debug\exercicioContaCP.csproj.GenerateResource.cache
+C:\Users\AnaDosSantos\source\repos\exercicioContaCP\exercicioContaCP\obj\Debug\exercicioContaCP.csproj.CoreCompileInputs.cache
+C:\Users\AnaDosSantos\source\repos\exercicioContaCP\exercicioContaCP\bin\Debug\exercicioContaCP.exe.config
+C:\Users\AnaDosSantos\source\repos\exercicioContaCP\exercicioContaCP\bin\Debug\exercicioContaCP.exe
+C:\Users\AnaDosSantos\source\repos\exercicioContaCP\exercicioContaCP\bin\Debug\exercicioContaCP.pdb
+C:\Users\AnaDosSantos\source\repos\exercicioContaCP\exercicioContaCP\obj\Debug\exercicioContaCP.exe
+C:\Users\AnaDosSantos\source\repos\exercicioContaCP\exercicioContaCP\obj\Debug\exercicioContaCP.pdb
+C:\Users\AnaDosSantos\source\repos\exercicioContaCP\exercicioContaCP\obj\Debug\exercicioContaCP.FormSacar.resources
+C:\Users\AnaDosSantos\source\repos\exercicioContaCP\exercicioContaCP\obj\Debug\exercicioContaCP.Formcontapoup.resources
+C:\Users\AnaDosSantos\source\repos\exercicioContaCP\exercicioContaCP\obj\Debug\exercicioContaCP.FormDepositar.resources
